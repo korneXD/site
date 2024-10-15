@@ -5,11 +5,7 @@ export const Header = () => {
     <div className="flex justify-center items-center flex-col font-poppins border border-cyan-500 rounded-lg mx-auto w-[550px] p-2">
       <div className="flex justify-center items-center flex-row">
         <div>
-          <img
-            src="../public/peace.png"
-            alt="MyMemoji"
-            className="rounded-lg h-48"
-          />
+          <img src="peace.png" alt="MyMemoji" className="rounded-lg h-48" />
         </div>
         <div className="flex justify-center flex-col text-left">
           <div className="flex flex-row gap-1">

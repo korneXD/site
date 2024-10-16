@@ -26,7 +26,7 @@ export const Header = () => {
             <p className="text-white text-xl">Available</p>
           </div>
           <h1 className="text-cyan-500 text-2xl font-bold cursor-pointer">
-            Kornél nem mukodik
+            Kornél nem mukodik xd
           </h1>
           <p className="text-white text-lg">Web Designer</p>
         </div>
